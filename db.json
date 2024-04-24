@@ -108,7 +108,7 @@
       "idCompany": 1,
       "name": "Frontend Dev",
       "tags": [
-        "ReactJS",
+        "ReactJs",
         "TypeScript"
       ],
       "salary": "1000",
@@ -125,7 +125,7 @@
       "name": "DATA",
       "tags": [
         "HTML",
-        "ReactJS",
+        "ReactJs",
         "TypeScript"
       ],
       "salary": "10000$",
@@ -165,7 +165,7 @@
     {
       "name": "Intern FE",
       "tags": [
-        "ReactJS",
+        "ReactJs",
         "HTML"
       ],
       "salary": "5000",
@@ -183,7 +183,7 @@
     {
       "name": "DATA",
       "tags": [
-        "ReactJS",
+        "ReactJs",
         "HTML",
         "TypeScript",
         "NodeJs",
@@ -206,7 +206,7 @@
       "name": "Intern FE",
       "tags": [
         "HTML",
-        "ReactJS",
+        "ReactJs",
         "TypeScript"
       ],
       "salary": "5000",
@@ -224,7 +224,7 @@
     {
       "name": "Tester",
       "tags": [
-        "ReactJS",
+        "ReactJs",
         "HTML",
         "TypeScript",
         "NodeJs",
@@ -251,7 +251,7 @@
         "MongoDB",
         "PHP",
         "NodeJs",
-        "ReactJS"
+        "ReactJs"
       ],
       "salary": "20000",
       "city": [
@@ -315,7 +315,7 @@
       "name": "Lùa khóa FE",
       "tags": [
         "HTML",
-        "ReactJS",
+        "ReactJs",
         "JavaScript"
       ],
       "salary": "600",
