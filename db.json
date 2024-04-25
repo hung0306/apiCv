@@ -44,7 +44,7 @@
   "tags": [
     {
       "key": 1,
-      "value": "ReactJs"
+      "value": "ReactJS"
     },
     {
       "key": 2,
@@ -106,9 +106,10 @@
   "jobs": [
     {
       "idCompany": 1,
+      "quantityJob": 2,
       "name": "Frontend Dev",
       "tags": [
-        "ReactJs",
+        "ReactJS",
         "TypeScript"
       ],
       "salary": "1000",
@@ -125,7 +126,7 @@
       "name": "DATA",
       "tags": [
         "HTML",
-        "ReactJs",
+        "ReactJS",
         "TypeScript"
       ],
       "salary": "10000$",
@@ -139,10 +140,12 @@
       "idCompany": 3,
       "createAt": "03-04-2024 21:25:23",
       "id": 3,
+      "quantityJob": 2,
       "updateAt": "03-04-2024 21:34:37"
     },
     {
       "name": "APP",
+      "quantityJob": 2,
       "tags": [
         "HTML",
         "NodeJs"
@@ -164,8 +167,9 @@
     },
     {
       "name": "Intern FE",
+      "quantityJob": 2,
       "tags": [
-        "ReactJs",
+        "ReactJS",
         "HTML"
       ],
       "salary": "5000",
@@ -174,16 +178,17 @@
         "Thanh Hóa"
       ],
       "description": "Trước khi bắt đầu viết mô tả công việc, hãy dành thời gian để nghiên cứu và hiểu rõ về vị trí công việc đó. Tìm hiểu về nhiệm vụ, trách nhiệm và yêu cầu cụ thể của vị trí đó trong công ty của bạn. Khám phá các tài liệu liên quan, bao gồm cả mô tả công việc hiện tại nếu có. Điều này giúp bạn có cái nhìn tổng quan về vị trí và những gì được mong đợi từ người xin việc.",
-      "status": false,
+      "status": true,
       "idCompany": 2,
       "createAt": "03-04-2024 22:35:12",
       "id": 5,
-      "updateAt": "03-04-2024 22:39:09"
+      "updateAt": "03-04-2024 14:09:24"
     },
     {
       "name": "DATA",
+      "quantityJob": 2,
       "tags": [
-        "ReactJs",
+        "ReactJS",
         "HTML",
         "TypeScript",
         "NodeJs",
@@ -204,9 +209,10 @@
     },
     {
       "name": "Intern FE",
+      "quantityJob": 2,
       "tags": [
         "HTML",
-        "ReactJs",
+        "ReactJS",
         "TypeScript"
       ],
       "salary": "5000",
@@ -223,8 +229,9 @@
     },
     {
       "name": "Tester",
+      "quantityJob": 2,
       "tags": [
-        "ReactJs",
+        "ReactJS",
         "HTML",
         "TypeScript",
         "NodeJs",
@@ -243,6 +250,7 @@
     },
     {
       "name": "Lùa khóa học",
+      "quantityJob": 2,
       "tags": [
         "HTML",
         "TypeScript",
@@ -251,7 +259,7 @@
         "MongoDB",
         "PHP",
         "NodeJs",
-        "ReactJs"
+        "ReactJS"
       ],
       "salary": "20000",
       "city": [
@@ -269,6 +277,7 @@
     },
     {
       "name": "Lùa 1 khóa + 500k",
+      "quantityJob": 2,
       "tags": [
         "HTML",
         "TypeScript",
@@ -282,14 +291,15 @@
         "Nam Định"
       ],
       "description": "Đây là một bước mà nhiều nhà tuyển dụng thường bỏ qua. Tuy vậy, với phần hướng dẫn cách viết mô tả công việc ngày hôm nay, đây sẽ là bước mà bạn nên thực hiện để bản JD được chi tiết, chính xác hơn.",
-      "status": false,
+      "status": true,
       "idCompany": 5,
       "createAt": "03-04-2024 23:13:37",
       "id": 10,
-      "updateAt": "03-04-2024 10:23:03"
+      "updateAt": "03-04-2024 16:44:51"
     },
     {
       "name": "Lùa khóa BE",
+      "quantityJob": 2,
       "tags": [
         "NodeJs",
         "SQL",
@@ -309,13 +319,14 @@
       "idCompany": 5,
       "createAt": "03-04-2024 10:18:32",
       "id": 11,
-      "updateAt": "03-04-2024 10:19:12"
+      "updateAt": "03-04-2024 16:45:45"
     },
     {
       "name": "Lùa khóa FE",
+      "quantityJob": 2,
       "tags": [
         "HTML",
-        "ReactJs",
+        "ReactJS",
         "JavaScript"
       ],
       "salary": "600",
@@ -333,6 +344,7 @@
     },
     {
       "name": "Intern FE",
+      "quantityJob": 2,
       "tags": [
         "Kotlin",
         "Swift",
